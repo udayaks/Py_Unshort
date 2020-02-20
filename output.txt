@@ -1,0 +1,12 @@
+URL	Status	Number of redirects	Redirect Chain	Final URL	
+http://em20.test3.evan-moor.com/c/213/never-bored-kid	0					
+http://em20.test3.evan-moor.com/c/50/	0					
+http://em20.test3.evan-moor.com/p/1	0					
+http://em20.test3.evan-moor.com/p/1/50-little-stories-to-take-home	0					
+http://em20.test3.evan-moor.com/p/10	0					
+http://em20.test3.evan-moor.com/p/1062	0					
+http://em20.test3.evan-moor.com/p/1066	0					
+http://em20.test3.evan-moor.com/p/1069	0					
+http://em20.test3.evan-moor.com/p/1070	0					
+http://em20.test3.evan-moor.com/p/1072	0					
+http://em20.test3.evan-moor.com/p/1073	0					
